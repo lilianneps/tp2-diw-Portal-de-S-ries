@@ -1,0 +1,22 @@
+{
+  "autor": {
+    "nome": "Lilianne Patricia Soares Maia",
+    "foto": "imagens/imageLili.webp",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "email": "lilianneps@gmail.com",
+    "turma": "Noite",
+    "bio": "Buscando transição para tecnologia, focando em desenvolvimento de software e análise de dados. Comprometida com aprendizado contínuo e crescimento profissional.",
+    "redeSociais": {
+      "facebook": "https://www.facebook.com/liliannepatricia.soaresmaia",
+      "instagram": "https://www.instagram.com/lilianneps/"
+    }
+  },
+  "favoritos": [
+    {
+      "id": 56570,
+      "nome": "Outlander",
+      "poster": "https://image.tmdb.org/t/p/w500/oftZNfyTVNU7IfOqoGLoT8MGvNs.jpg",
+      "descricao": "Nesse conto épico, um guerreiro e uma enfermeira vivem uma paixão avassaladora, mas 200 anos os separam."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "favoritas",
+  "version": "1.0.0",
+  "description": "App para gerenciar séries favoritas",
+  "main": "index.js",
+  "scripts": {
+    "start-server": "json-server --watch db/db.json --port 8888 --static public"
+  },
+  "keywords": [],
+  "author": "Lilianneps",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
